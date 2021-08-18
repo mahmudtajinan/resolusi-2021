@@ -1,6 +1,6 @@
 mahmudtajinan resolusi
 - saya pengen belajar web mulai dari belajar: html,css,php
 - membuat web penjualan online
-- Membuat video tutorial Belajar Web
 - belajar kolaborasi dengan menggunakan Git dan GitHub bersama dengan programmer lainnya
 - belajar aplikasi pemrograman mobile
+- belajar C++
